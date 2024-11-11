@@ -3,7 +3,7 @@
 Project for school.
 (Playing in a full screen terminal is recommended)
 
-A (unfinished) C classic turn based game.
+A game programmed in C that is inspired from classic turn based games
 
 # Inputs
 
